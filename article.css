@@ -1,0 +1,181 @@
+.container .article {
+    width: 75%;
+    float: right;
+    margin-top: 90px;
+    position: relative;
+}
+.container .article .section1 {
+    width: 100%;
+}
+.container .article .section1 .section1_combophantram1,.container .article .section1 .section1_combophantram2,.container .article .section1 .section1_combophantram3 {
+    width: 25%;
+    float: left;
+}
+.container .article .section1 .section1_combophantram2 {
+    margin-left: 40px;
+    margin-right: 140px;
+}
+.container .article .section1 .section1_head .section1_head_duongke{
+    width: 40px;
+    background-color: red;
+}
+.container .article .section1 .section1_combo1,.container .article .section1 .section1_combo2, .container .article .section1 .section1_combo3{
+    float: left;
+}
+.container .article .section1 .section1_combo2 {
+    position: relative;
+    margin: 0px 50px 0px 50px;
+    padding: 3px 40px 3px 40px;
+    border: 0.3px ridge #00000027;
+    border-radius: 5px;
+}
+.container .article .section1 .section1_combo1{
+    position: relative;
+    padding: 3px 40px 3px 40px;
+    border: 0.3px ridge #00000027;
+    border-radius: 5px;
+}
+.container .article .section1 .section1_combo1:hover,.container .article .section1 .section1_combo2:hover,.container .article .section1 .section1_combo3:hover {
+    background-color: #ffeace;
+}
+.container .article .section1 .section1_combo3 {
+    position: relative;
+    padding: 3px 40px 3px 40px;
+    border: 0.3px ridge #00000027;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+.container .article .section1 .section1_combo_img1{
+    position: absolute;
+    right: 50px;
+    bottom: 96px;
+}
+.container .article .section1 .section1_combo_img2 {
+    position: absolute;
+    right: 20px;
+    bottom: 98px;
+}
+.container .article .section1 .section1_combo_gia {
+    color: rgba(248, 114, 14, 1);
+    font-size: 24px;
+    line-height: 28px;
+}
+.container .article .section1 button {
+    position: absolute;
+    bottom: 20px;
+    right: 15px;
+    border: 1px solid #F8720E;
+    color: rgba(248, 114, 14, 1);
+    width: 150px;
+    height: 39px;
+    border-radius: 10px;
+    font-size: 24px;
+    background-color: #fff;
+}
+.container .article .section1 button:hover {
+    background-color: #F8720E;
+    color: #FFFFFF;
+}
+.container .article .section2 {
+    padding-top: 20px;
+    clear: both;
+}
+.container .article .section2 .section2_button1 {   
+    margin-left: 460px;
+    width: 16px;
+    height: 15px; 
+    background: #F8720E;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+.container .article .section2 .section2_button2 {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 16px;
+    height: 15px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+.container .article .section2 .section2_button3 {
+    width: 16px;
+    height: 15px;  
+    border: 1px solid #000000;
+    border-radius: 10px;
+}
+.container .article .section2 .section2_duongke1 {
+    margin-top: 20px;
+    margin-left: 230px;
+    width: 560px;
+    border: 1px solid rgba(241, 88, 88, 0.3);
+}
+.container .article .section2 .section2_duongke2 {
+    margin-top: 20px;
+    border: 1px solid rgba(241, 88, 88, 0.5);
+    width: 1000px;
+}
+.container .article .section3 {
+    padding-top: 50px;
+}
+.container .article .section3 .section3_button1 {
+    margin-left: 350px;
+    background: #FFFFFF;
+    border: 0.5px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 10px;
+}
+.container .article .section3 .section3_button1:hover,.container .article .section3 .section3_button2:hover,.container .article .section3 .section3_button3:hover {
+    background-color: #F8720E;
+    color: #FFFFFF;
+}
+.container .article .section3 .section3_button2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    background: #FFFFFF;
+    border: 0.5px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 10px;
+}
+.container .article .section3 .section3_button3 {
+    background: #FFFFFF;
+    border: 0.5px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 24px;
+    padding: 10px;
+}
+.container .article .section3 .section3_chu {
+    margin-top: 45px;
+    font-size: 24px;
+}
+.container .article .section3 .section3_o1{
+    position: absolute;
+    top: 640px;
+    left: 160px;
+    border: 0.5px solid #000000;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
+.container .article .section3 .section3_o1 > p {
+    margin: 10px;
+}
+.container .article .section3 .section3_o1 .section3_o1_o2 {
+    width: 35px;
+    height: 30px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    background: #C4C4C4;
+    border-radius: 0px 5px 5px 0px;
+}
+.container .article .section3 .section3_o1 .section3_o1_o2 img {
+    padding: 10px;
+}
+.container .article .section4 iframe{
+    width: 100%;
+    height: 1250px;
+}

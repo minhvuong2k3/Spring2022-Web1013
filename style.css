@@ -1,0 +1,94 @@
+body{
+    padding: 0;
+    margin: 0px 100px 0px 100px;
+    box-sizing: border-box;
+}
+
+.container .section {
+    padding-top: 100px;
+}
+
+.container .section iframe {
+    height: 550px;
+    width: 100%;
+}
+.container .section  .section_button1 {
+    position: absolute;
+    width: 24px;
+    height: 23px;
+    left: 740px;
+    top: 585px;
+    border-radius: 15px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.container .section  .section_button1:hover,.container .section  .section_button2:hover,.container .section  .section_button3:hover {
+    background-color: rgb(255, 115, 0);
+}
+.container .section  .section_button2 {
+    position: absolute;
+    width: 24px;
+    height: 23px;
+    left: 780px;
+    top: 585px;
+    border-radius: 15px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.container .section  .section_button3 {
+    position: absolute;
+    width: 24px;
+    height: 23px;
+    left: 820px;
+    top: 585px;
+    border-radius: 15px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+}
+.container .container_section {
+    clear: both;
+    padding-top: 50px;
+}
+.container .container_section  div {
+    width: 55px;
+    height: 55px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 3px;
+    padding: 15px 20px 15px 20px;
+    font-size: 24px;
+    color: black;
+}
+.container .container_section  div:hover {
+    background-color: rgb(255, 115, 0);
+    color: white;
+}
+.container .container_section .container_section_div1 {
+    float: left;
+    margin-left: 600px;
+    
+}
+.container .container_section .container_section_div2 {
+    float: left;
+    margin-left: 20px;
+}
+.container .container_section .container_section_div3 {
+    float: left;
+    margin-left: 20px;
+}
+.container .container_section .container_section_div4 {
+    float: left;
+    margin-left: 20px;
+}
+.container .container_section .container_section_div5 {
+    float: left;
+    margin-left: 20px;
+}
+.container .container_section .container_section_div6 {
+    float: left;
+    margin-left: 20px;
+}
+
+
+

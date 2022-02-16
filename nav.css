@@ -1,0 +1,50 @@
+.container .nav .nav_timkiem {
+    position: absolute;
+    width: 655px;
+    height: 55px;
+    left: 342px;
+    top: 650px;
+    background: #FFFFFF;
+    border: 2px solid #AFACAC;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+.container .nav .nav_timkiem p {
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 30px;
+    top: 0px;
+    margin-top: 9px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    color: #AFACAC;
+}
+.container .nav .nav_timkiem .img1{
+    position: absolute;
+    right: 30px;
+    top: 10px;
+}
+.container .nav .nav_timkiem .img2{
+    position: absolute;
+    right: 25px;
+    top: 28px;
+}
+.container .nav .nav_vungdiachi {
+    height: 40px;
+    width: 120px;
+    border-radius: 15px;
+    background-color: rgba(248, 114, 14, 1);
+    position: absolute;
+    right: 130px;
+}
+.container .nav .nav_vungdiachi option {
+    font-size: 18px;
+}
+.map {
+    position: absolute;
+    right: 280px;
+    top: 570px;
+}

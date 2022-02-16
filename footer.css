@@ -1,0 +1,78 @@
+.container .footer{
+    height: 479px;
+    background: #F8720E;
+    position: relative;
+    width: 100%;
+    margin-top: 100px;
+}
+.container .footer .footer_thongtin {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    color: white;
+}
+.container .footer .footer_hotro {
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    color: white;
+}
+.container .footer .footer_giaohang{
+    position: absolute;
+    top: 80px;
+    left: 500px;
+    color: white;
+}
+.container .footer .footer_logo{
+    position: absolute;
+    top: 60px;
+    left: 800px;
+}
+.container .footer .footer_lienhe {
+    position: absolute;
+    top: 80px;
+    left: 1000px;
+    color: white;
+    text-align: center;
+}
+.container .footer .footer_lienhe .footer_lienhe_duong1 {
+    width: 112px;
+    height: 0px;
+    border: 0.8px solid #FFFFFF;
+    position: relative;
+    left: 100px;
+}
+.container .footer .footer_duong2 {
+    position: absolute;
+    width: 455px;
+    height: 0px;
+    top: 270px;
+    left: 930px;
+    border: 1px solid #FFFFFF;
+}
+.container .footer .footer_dienthoai {
+    position: absolute;
+    top: 300px;
+    left: 1000px;
+}
+.container .footer .footer_tuvan {
+    position: absolute;
+    top: 300px;
+    left: 1170px;
+    color: white;
+    text-align: center;
+}
+.container .footer .footer_tuvan .footer_tuvan_duong3 {
+    width: 82.01px;
+    height: 0px;
+    border: 1px solid #FFFFFF;
+    margin-left: 30px;
+}
+.container .footer p:hover, .container .footer h2:hover {
+    color: #e0dcd8bb;
+}
+.likefb {
+    position: absolute;
+    bottom: 100px;
+    left: 90px;
+}
