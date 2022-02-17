@@ -22,6 +22,9 @@ body{
     border: 1px solid #000000;
     box-sizing: border-box;
 }
+.container .section  .section_button1:focus,.container .section  .section_button2:focus,.container .section  .section_button3:focus {
+    background: rgb(255, 115, 0);;
+}
 .container .section  .section_button1:hover,.container .section  .section_button2:hover,.container .section  .section_button3:hover {
     background-color: rgb(255, 115, 0);
 }
